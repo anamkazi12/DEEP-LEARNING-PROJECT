@@ -116,4 +116,11 @@ This structured preprocessing ensures:
 This project demonstrates how to professionally prepare real-world employee data for analytics and machine learning tasks. By automating preprocessing, it ensures accuracy, efficiency, and scalability. The resulting files can now be directly used for predictive modeling, HR analytics, salary forecasting, performance analysis, and more.
 
 #output
+![Image](https://github.com/user-attachments/assets/6ed37142-779b-4639-b1f3-adb9f37f390c)
+![Image](https://github.com/user-attachments/assets/3e1e37a2-8308-4089-b2e0-2a2d3b6d9f0c)
+![Image](https://github.com/user-attachments/assets/e90e10eb-7c3f-48b9-8179-7d1bad34d9bb)
+![Image](https://github.com/user-attachments/assets/3f312358-721c-434e-8c58-b057dd4c69c0)
+![Image](https://github.com/user-attachments/assets/b796ead8-5a6c-497a-9ebb-b7fd091979f8)
+![Image](https://github.com/user-attachments/assets/c5cc1900-697d-4d9e-a3f0-bd006bff08ed)
+![Image](https://github.com/user-attachments/assets/53259de7-a210-426e-966d-eda1b44d4e14)
 
